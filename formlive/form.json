@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "username": "Rashmi",
+      "age": "23",
+      "email": "rashmirohini20@gmail.com",
+      "id": 3
+    }
+  ],
+  "userList" : [
+    {
+      "username": "Rashmi",
+      "age": "23",
+      "email": "rashmirohini20@gmail.com",
+      "id": 3
+    },
+    {
+      "username": "Rashmi",
+      "age": "23",
+      "email": "rashmirohini20@gmail.com",
+      "id": 3
+    },
+    {
+      "username": "Rashmi",
+      "age": "23",
+      "email": "rashmirohini20@gmail.com",
+      "id": 3
+    }
+  ]
+}

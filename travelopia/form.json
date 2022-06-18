@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "username": "Rashmi",
+      "email": "rashmirohini20@gmail.com",
+      "country": "arfica",
+      "numb_of_person": "1",
+      "budget": "1000",
+      "id": 1
+    },
+    {
+      "username": "userw",
+      "email": "rashmi_fw15_459@masai.school",
+      "country": "europe",
+      "numb_of_person": "1",
+      "budget": "1233",
+      "id": 2
+    }
+  ]
+}
